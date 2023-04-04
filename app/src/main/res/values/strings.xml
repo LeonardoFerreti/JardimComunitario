@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jardim Comunitário</string>
+    <string name="hint_email_cliente">Email</string>
+    <string name="hint_senha_email">Senha</string>
+</resources>
